@@ -1,5 +1,7 @@
 CODEX 
 
+<img width="432" alt="{FB231E19-ED65-4151-9B89-F3B4DEF8A26A}" src="https://github.com/user-attachments/assets/eb97fa17-4deb-4279-931b-29cf0ff678cc" />
+
 Обзор проекта Codex
 Codex — это L1‑блокчейн, специально разработанный для мгновенных межбанковских переводов стейблкоинов с минимальными комиссиями и высокой пропускной способностью . В апреле 2025 г. проект успешно привлёк $15,8 млн в посевном раунде, который возглавило DragonFly Capital; в числе других инвесторов — Coinbase Ventures, Circle Ventures и Wintermute .
 
