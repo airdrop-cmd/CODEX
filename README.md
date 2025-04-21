@@ -29,7 +29,9 @@ Codex — это L1‑блокчейн, специально разработа�
 git clone https://github.com/airdrop-cmd/CODEX.git
 
 Подготовьте файлы в корне проекта:
+
 email.txt — список e‑mail, по одному адресу на строку
+
 proxies.txt — список прокси в формате IP:PORT или USERNAME:PASS@IP:PORT
 
 Запустите скрипт:
@@ -38,6 +40,7 @@ start.bat
 Проверьте результаты в папке result/:
 
 success.txt — успешно добавленные в Waitlist адреса
+
 failed.txt — адреса, для которых запрос не прошёл
 
 ___________________________________________________
@@ -47,7 +50,7 @@ CODEX
 Project Overview
 Codex is an L1 blockchain specifically designed for instant, low‑fee stablecoin transfers with high throughput. In April 2025, the project successfully raised $15.8 million in a seed round led by DragonFly Capital; other participants included Coinbase Ventures, Circle Ventures, and Wintermute.
 
-Script Functionality:
+
 This tool automates bulk additions to the Codex waitlist:
 
 Email Input:
@@ -72,9 +75,9 @@ Installation & Usage:
 Clone the repository:
 
 git clone https://github.com/airdrop-cmd/CODEX.git
-Prepare the input files in the project root:
 
 email.txt — list of email addresses (one per line)
+
 proxies.txt — list of proxies (IP:PORT or USERNAME:PASS@IP:PORT)
 
 Run the script:
@@ -83,4 +86,5 @@ start.bat
 Check the results in the result/ folder:
 
 success.txt — emails successfully added to the waitlist
+
 failed.txt — emails for which the request failed
